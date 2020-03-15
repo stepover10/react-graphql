@@ -1,0 +1,25 @@
+type User {
+  id: ID! @id @unique
+  name: String!
+  lastName: String!
+}
+
+type Post {
+  files: [Files!]!
+}
+
+type Like {
+  user: User!
+  post: Post!
+}
+
+type Commnet {
+  text: String!
+  user: User!
+  post: Post!
+}
+
+type File {
+  url: String!
+  post: Post!
+}
