@@ -105,3 +105,6 @@ dist
 
 # prisma
 generated
+
+# vscode
+.history
