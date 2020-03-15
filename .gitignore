@@ -105,6 +105,9 @@ dist
 
 # prisma
 generated
+<<<<<<< HEAD
 
 # vscode
+=======
+>>>>>>> f43654c3a51f67f2daa362fc0d19f306568b647c
 .history

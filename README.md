@@ -12,4 +12,7 @@ npm graphql-tools, merge-graphql-schemas
 - add many code graphql and add resolver files
 
 prisma == ORM(Object-reational mapping, 객체관계 연결)
-https://www.prisma.io/
+- database
+- https://www.prisma.io/
+
+
